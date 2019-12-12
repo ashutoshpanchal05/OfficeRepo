@@ -2002,3 +2002,12 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2019-12-04 20:31:49,426 [Worker-5216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-04 20:31:49,426 [Worker-5216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
 2019-12-04 20:31:49,429 [Worker-5216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-04 20:31:49,430 [Worker-5216: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
+2019-12-05 14:54:54,938 [Worker-5448: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 14:54:54,939 [Worker-5448: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
+2019-12-05 14:54:54,940 [Worker-5448: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 14:54:54,940 [Worker-5448: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
+2019-12-05 15:01:05,681 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:01:05,682 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
+2019-12-05 15:01:05,683 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-05 15:01:05,683 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
