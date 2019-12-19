@@ -2011,3 +2011,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.beanshell
 2019-12-05 15:01:05,682 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
 2019-12-05 15:01:05,683 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-05 15:01:05,683 [Worker-5438: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
+2019-12-17 14:34:33,973 [Worker-5727: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-17 14:34:34,524 [Worker-5727: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
+2019-12-17 14:34:34,526 [Worker-5727: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-17 14:34:34,526 [Worker-5727: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
+2019-12-17 14:39:09,035 [Worker-5728: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-17 14:39:09,044 [Worker-5728: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\main\resources
+2019-12-17 14:39:09,045 [Worker-5728: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-17 14:39:09,045 [Worker-5728: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\v7110984\eclipse-workspace\inetBankingV1\src\test\resources
